@@ -10,7 +10,7 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "IR_carmp3_hx1838b.ts"
+        "test_hx1838.ts"
     ],
     "testFiles": [
         "test.ts"
