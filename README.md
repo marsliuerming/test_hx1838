@@ -1,5 +1,5 @@
 
-> 在 [https://iqfu321.github.io/ir_carmp3_hx1838b/](https://iqfu321.github.io/ir_carmp3_hx1838b/) 打开此页面
+> 在 [https://iqfu321.github.io/ir_carmp3_hx1838b/](https://github.com/marsliuerming/test_hx1838/) 打开此页面
 
 ## 用作扩展
 
