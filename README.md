@@ -1,5 +1,5 @@
 
-> 在 [https://iqfu321.github.io/ir_carmp3_hx1838b/](https://github.com/marsliuerming/test_hx1838/) 打开此页面
+> 在 [https://github.com/marsliuerming/test_hx1838/](https://github.com/marsliuerming/test_hx1838/) 打开此页面
 
 ## 用作扩展
 
@@ -8,9 +8,9 @@
 * 打开 [https://makecode.microbit.org/](https://makecode.microbit.org/)
 * 点击 **新项目**
 * 点击齿轮图标菜单下的 **扩展**
-* 搜索 **https://github.com/iqfu321/ir_carmp3_hx1838b** 并导入
+* 搜索 **https://github.com/marsliuerming/test_hx1838** 并导入
 
-## 编辑此项目 ![构建状态标志](https://github.com/iqfu321/ir_carmp3_hx1838b/workflows/MakeCode/badge.svg)
+## 编辑此项目 ![构建状态标志](https://github.com/marsliuerming/test_hx1838/workflows/MakeCode/badge.svg)
 
 在 MakeCode 中编辑此仓库。
 
@@ -23,7 +23,7 @@
 此图像显示主分支中最后一次提交的块代码。
 此图像可能需要几分钟才能刷新。
 
-![块的渲染视图](https://github.com/iqfu321/ir_carmp3_hx1838b/raw/master/.github/makecode/blocks.png)
+![块的渲染视图](https://github.com/marsliuerming/test_hx1838/raw/master/.github/makecode/blocks.png)
 
 #### 元数据（用于搜索、渲染）
 
