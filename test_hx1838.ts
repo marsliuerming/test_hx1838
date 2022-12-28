@@ -31,7 +31,7 @@ const enum IrButtonAction {
     //% block="released"
     Released = 1,
 }
-namespace test_hx1838 {
+namespace IRQ_hx1838 {
     let irState: IrState;
 
     const MICROBIT_IR_NEC = 777;
